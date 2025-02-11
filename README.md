@@ -1,0 +1,3 @@
+This repository contains a MATLAB function that throws an unhelpful error message when given negative input. The bug.m file demonstrates the issue, and bugSolution.m provides a solution with a more informative error message.
+
+The original error message is generic and doesn't provide any context to the user about why the error occurred or how to fix it. The improved error message in bugSolution.m provides more specific information about the input and the expected range.
